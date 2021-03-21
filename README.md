@@ -13,18 +13,19 @@ For more details see the Moodle page.
 
 ### Movie Name
 
-TODO
+Trip to the moon
 
 ### Group Members
 
 | Student ID    | First Name  | Last Name      |
 | --------------|-------------|----------------|
-| TODO          | TODO        | TODO           |
-| TODO          | TODO        | TODO           |
+| K1628239      | Ana         | Deliallisi     |
+| K11918165     | Danya       | Gharbieh       |
 
 ### Concept
 
-TODO
+We are take a trip with one of the satellites of the moon called Ariel and we will be showing moon's features and surface by moving the camera on different angles.
+By changing the focus of the camera we want to show the terrain of the moon which changes because of the surface of the moon which has a lot of cratters and mixed surface shapes.
 
 (Explain the basic story of your movie, i.e., planned scenes, what happens, which objects are used, etc.)
 
@@ -34,16 +35,16 @@ Selected special effects must add up to exactly 30 points:
 
 | Selected   | ID | Name                                  | Points |
 |------------|----|---------------------------------------|--------|
-| yes/no     | S1 | Multi texturing                       | 10     |  
-| yes/no     | S2 | Level of detail                       | 10     |
-| yes/no     | S3 | Billboarding                          | 10     |
-| yes/no     | S4 | Terrain from heightmap                | 20     |
-| yes/no     | S5 | Postprocessing shader                 | 20     |
-| yes/no     | S6 | Animated water surface                | 20     |
-| yes/no     | S7 | Minimap                               | 20     |
-| yes/no     | S8 | Particle system (rain, smoke, fire)   | 20     |
-| yes/no     | S9 | Motion blur                           | 30     |
-| yes/no     | SO | Own suggestion (preapproved by email) | TODO   |
+| no         | S1 | Multi texturing                       | 10     |  
+| no         | S2 | Level of detail                       | 10     |
+| yes        | S3 | Billboarding                          | 10     |
+| no         | S4 | Terrain from heightmap                | 20     |
+| no         | S5 | Postprocessing shader                 | 20     |
+| no         | S6 | Animated water surface                | 20     |
+| no         | S7 | Minimap                               | 20     |
+| yes        | S8 | Particle system (rain, smoke, fire)   | 20     |
+| no         | S9 | Motion blur                           | 30     |
+| no         | SO | Own suggestion (preapproved by email) | TODO   |
 
 ## Intermediate submission due on 23.04.2021
 
